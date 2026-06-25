@@ -59,9 +59,6 @@ http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="QAFQAZTV.az" tvg-logo="https://i.imgur.com/gQh7Qfv.png",QAFQAZ TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/qafkaz/video.ts
-#EXTINF:-1 tvg-id="TV1.az" tvg-logo="https://i.imgur.com/r9zUPjV.jpeg",TV1
-#EXTGRP:Azərbaycan
-https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
 #EXTGRP:Azərbaycan
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
