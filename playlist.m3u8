@@ -110,3 +110,6 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr",TRT 1
 #EXTGRP:Türk
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",ATV
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
