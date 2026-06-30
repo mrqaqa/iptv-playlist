@@ -116,3 +116,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="star-tv-hd-tr",STAR TV
 #EXTGRP:Türk
 http://185.32.44.154/startv/index.m3u8
+#EXTINF:-1 tvg-id="show-tv-hd-tr",SHOW TV
+#EXTGRP:Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
