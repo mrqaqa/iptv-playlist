@@ -129,4 +129,10 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr",TV 8,5
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="tv8int-tr",TV 8 int
+#EXTGRP:Türk
+http://185.32.44.154/tv8int/index.m3u8
+#EXTINF:-1 tvg-id="fox-hd-tr",NOW
+#EXTGRP:Türk
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
