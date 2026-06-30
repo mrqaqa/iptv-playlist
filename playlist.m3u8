@@ -108,7 +108,7 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/uUJG6Tj.jpeg",MUSİC AZERBAYCAN HİT
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr",TRT1
 #EXTGRP:Türk
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="atv-hd-tr",ATV
@@ -123,13 +123,13 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd",KANAL D
 #EXTGRP:Türk
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="tv8-tr",TV 8
+#EXTINF:-1 tvg-id="tv8-tr",TV8
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="tv85-tr",TV 8,5
+#EXTINF:-1 tvg-id="tv85-tr",TV8,5
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="tv8int-tr",TV 8 int
+#EXTINF:-1 tvg-id="tv8int.tr",TV8 İnt
 #EXTGRP:Türk
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr",NOW
