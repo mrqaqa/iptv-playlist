@@ -1,4 +1,6 @@
 #EXTM3U8
+url-tvg="http://epg.it999.ru/edem.xml.gz"
+url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/azadazerbaycan/index.m3u8
