@@ -143,4 +143,8 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="a2-tr",A2 TV
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="tv4" tvg-logo="https://i.imgur.com/7lvxq7t.png",tv 4
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
 
