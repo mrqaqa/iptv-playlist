@@ -134,19 +134,19 @@ http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr",NOW
 #EXTGRP:Türk
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL 7
+#EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
 #EXTGRP:Türk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="teve2hd",TEVE 2
+#EXTINF:-1 tvg-id="teve2hd",TEVE2
 #EXTGRP:Türk
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="a2-tr",A2 TV
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://i.imgur.com/7lvxq7t.png",tv 4
+#EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://i.imgur.com/7lvxq7t.png",tv4
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://i.imgur.com/QjePEOJ.png",TV 360
+#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://i.imgur.com/QjePEOJ.png",TV360
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="beyaz-tv-tr",BEYAZ TV
@@ -164,5 +164,11 @@ http://185.32.44.154/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr",NTV
 #EXTGRP:Türk
 http://185.32.44.154/ntvturk/index.m3u8
+#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://i.imgur.com/qt7gttC.png",24TV
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="tv100-tr" tvg-logo="https://i.imgur.com/YNRNZDd.png",TV100
+#EXTGRP:Türk
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 
