@@ -1,4 +1,4 @@
-#EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
+#EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz,https://github.com/tv-logo/tv-logos.git"
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/azadazerbaycan/index.m3u8
@@ -128,7 +128,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr",TV8,5
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://i.imgur.com/Odx6wuY.png",TV8 İnt
+#EXTINF:-1 tvg-id="tv8-int-tr",TV8 İnt
 #EXTGRP:Türk
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr",NOW
@@ -146,7 +146,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://i.imgur.com/7lvxq7t.png",tv4
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://i.imgur.com/QjePEOJ.png",TV360
+#EXTINF:-1 tvg-id="tv360-tr",TV360
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="beyaz-tv-tr",BEYAZ TV
