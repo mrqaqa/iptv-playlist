@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/azadazerbaycan/index.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/42eivD5.png",Xəzər TV
+#EXTINF:-1 tvg-id="xezer",Xəzər TV
 #EXTGRP:Azərbaycan
 http://185.32.44.154/xezertv/index.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png",ARB
@@ -17,10 +17,10 @@ http://185.32.44.154/arbgunesh/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
 #EXTGRP:Azərbaycan
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/INV41x1.png",AZ TV
+#EXTINF:-1 tvg-id="aztv",AZ TV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/YGAAzCA.png",Mədəniyyət TV
+#EXTINF:-1 tvg-id="medeniyyet",Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az",Space TV
@@ -35,13 +35,13 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/hTEHrzX.png",APA TV
 #EXTGRP:Azərbaycan
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 tvg-id="CBCAZ.az" tvg-logo="https://i.imgur.com/fsAq6M0.png",CBC AZ
+#EXTINF:-1 tvg-id="cbc-az",CBC AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/cbc/index.m3u8
-#EXTINF:-1 tvg-id="CBCSportHD.az" tvg-logo="https://i.imgur.com/wMkNdIb.png",CBC Sport HD
+#EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
 #EXTGRP:Azərbaycan
 http://185.32.44.154/cbcsporthd/index.m3u8
-#EXTINF:-1 tvg-id="Idman.az" tvg-logo="https://i.imgur.com/EZOtZjn.png",İdman AZ
+#EXTINF:-1 tvg-id="idman",İdman AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/idmanaz/index.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/2uDoPPO.png",Dünya TV
