@@ -128,7 +128,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="tv85-tr",TV8,5
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://i.imgur.com/6a0E1YH.png",TV8 İnt
+#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://i.imgur.com/AEgvaIr.png",TV8 İnt
 #EXTGRP:Türk
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr",NOW
