@@ -155,8 +155,14 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="a-haber-tr",A HABER
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-id="a-haber-tr" tvg-logo="https://i.imgur.com/axywOSz.png",HABER TÜRK
+#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://i.imgur.com/axywOSz.png",HABER TÜRK
 #EXTGRP:Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="cnn-turk",CNN TÜRK
+#EXTGRP:Türk
+http://185.32.44.154/cnnturk/index.m3u8
+#EXTINF:-1 tvg-id="ntv-hd-tr",NTV
+#EXTGRP:Türk
+http://185.32.44.154/ntvturk/index.m3u8
 
 
