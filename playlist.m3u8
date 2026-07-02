@@ -206,7 +206,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
 #EXTGRP:Türk
 https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w926588147.m3u8
-#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr",TRT DİYANET ÇOCUK
+#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
 #EXTGRP:Türk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
