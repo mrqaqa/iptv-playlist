@@ -62,7 +62,7 @@ http://str.yodacdn.net/qafkaz/video.ts
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
 #EXTGRP:Azərbaycan
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/lurp781.png",SHOW PLUS
+#EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/u9uuTYm.png",SHOW PLUS
 #EXTGRP:Azərbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/9J4fWyO.png",LİVE TV
