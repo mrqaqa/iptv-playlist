@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/ntv/mono.m3u8
 #EXTINF:-1 tvg-id="QAFQAZTV.az" tvg-logo="https://i.imgur.com/gQh7Qfv.png",QAFQAZ TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/qafkaz/video.ts
