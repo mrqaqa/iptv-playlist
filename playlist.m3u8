@@ -191,6 +191,9 @@ https://netspor.tecostream.xyz/bsh.m3u8
 #EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
 #EXTGRP:Türk
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="yaban-tr",YABAN TV
+#EXTGRP:Türk
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1844188269.m3u8
 
 
 
