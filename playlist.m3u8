@@ -215,6 +215,10 @@ http://185.32.44.154/NR1TurkHD/index.m3u8
 #EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
 #EXTGRP:Türk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
+#EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
+#EXTGRP:Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
+
 
 
 
