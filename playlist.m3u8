@@ -221,7 +221,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_s
 #EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
 #EXTGRP:Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="kral-pop-tr",KRALPOP TV
+#EXTINF:-1 tvg-id="kral-pop-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png",KRALPOP TV
 #EXTGRP:Türk
 https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/chunklist_b1296000.m3u8?st=fqno4wPudcTGeuIAqFKeQQ&e=1783108803
 
