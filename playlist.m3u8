@@ -185,6 +185,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
 #EXTGRP:Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+#EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
+#EXTGRP:Türk
+https://netspor.tecostream.xyz/bsh.m3u8
 
 
 
