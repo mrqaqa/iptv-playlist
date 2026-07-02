@@ -188,6 +188,9 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
 #EXTGRP:Türk
 https://netspor.tecostream.xyz/bsh.m3u8
+#EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
+#EXTGRP:Türk
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 
 
 
