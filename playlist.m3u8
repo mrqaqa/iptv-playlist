@@ -179,6 +179,12 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
 #EXTGRP:Türk
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="a-spor-tr",A SPOR
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
+#EXTGRP:Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 
 
 
