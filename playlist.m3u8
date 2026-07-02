@@ -134,6 +134,9 @@ http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
 #EXTGRP:Türk
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
+#EXTGRP:Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
 #EXTGRP:Türk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
