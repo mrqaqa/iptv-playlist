@@ -65,7 +65,7 @@ http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/u9uuTYm.png",SHOW PLUS
 #EXTGRP:Azərbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/9J4fWyO.png",LİVE TV
+#EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/8OEMS7P.png",LİVE TV
 #EXTGRP:Azərbaycan
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 tvg-id="KANAL35.az" tvg-logo="https://i.imgur.com/DzDJfTP.png",KANAL 35
@@ -74,10 +74,10 @@ http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SESTV.az" tvg-logo="https://i.imgur.com/EZZZxio.png",SƏS TV
 #EXTGRP:Azərbaycan
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-#EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/xwlYhZq.png",BİZNES TV
+#EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/ayiI6kc.png",BİZNES TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/4GD5RKy.jpeg",VIP HD
+#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/n9gZNmC.png",VIP HD
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
