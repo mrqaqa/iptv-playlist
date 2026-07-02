@@ -77,7 +77,7 @@ http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
 #EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/ayiI6kc.png",BİZNES TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/n9gZNmC.png",VIP HD
+#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/n9gZNmC.png",VIP TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
@@ -92,19 +92,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="AYAZTV.az" tvg-logo="https://i.imgur.com/eT33dT9.png",AYAZ TV
 #EXTGRP:Azərbaycan
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/wvDSxXZ.png",KN TV
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Q7kDWmD.png",KTV MUSIC
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/DynMPaR.png",VOSTOK TV
+#EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
 #EXTGRP:Azərbaycan
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wrBIOAI.jpeg",MUSİC AZERBAYCAN HD
+#EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
 #EXTGRP:Azərbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/uUJG6Tj.jpeg",MUSİC AZERBAYCAN HİT
+#EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/PWmN7Ob.png",MUSİC AZERBAYCAN HİT
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
