@@ -194,6 +194,22 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="yaban-tr",YABAN TV
 #EXTGRP:Türk
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1844188269.m3u8
+#EXTINF:-1 tvg-id="trt-cocuk-tr",TRT ÇOCUK
+#EXTGRP:Türk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="minikacocuk-tr",MİNİKA ÇOCUK
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="minikago-tr",MİNİKA GO
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
+#EXTGRP:Türk
+https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w926588147.m3u8
+#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr",TRT DİYANET ÇOCUK
+#EXTGRP:Türk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
 
 
 
