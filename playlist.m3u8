@@ -233,6 +233,10 @@ http://185.32.44.154/trtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="tlc-tr",TLC TV
 #EXTGRP:Türk
 https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w1567156057.m3u8
+#EXTINF:-1 tvg-id="dmax-tr",DMAX
+#EXTGRP:Türk
+https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1868096571.m3u8
+
 
 
 
