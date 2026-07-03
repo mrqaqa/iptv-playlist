@@ -248,12 +248,27 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/504/index.m3u8
 #EXTINF:-1 tvg-id="ntv",НТВ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/213/index.m3u8
+#EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/741/index.m3u8
+#EXTINF:-1 tvg-id="ntv-mir",НТВ Мир
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/14035/index.m3u8
+#EXTINF:-1 tvg-id="mir",Мир
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/113/index.m3u8
+#EXTINF:-1 tvg-id="mir-24",Мир 24
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/712/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr",ТВЦ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
+#EXTINF:-1 tvg-id="otr",ОТР
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
 #EXTINF:-1 tvg-id="tnt",ТНТ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/7251/index.m3u8
@@ -263,10 +278,6 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/128/index.m3u8
-#EXTINF:-1 tvg-id="otr",ОТР
-#EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
-
 
 
 
