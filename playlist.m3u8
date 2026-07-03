@@ -242,6 +242,19 @@ http://185.32.44.154/ntvsport/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/127/index.m3u8
+#EXTINF:-1 tvg-id="rossia1",Россия 1
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/504/index.m3u8
+#EXTINF:-1 tvg-id="ntv",НТВ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/213/index.m3u8
+#EXTINF:-1 tvg-id="tvcentr",ТВЦ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
+
 
 
 
