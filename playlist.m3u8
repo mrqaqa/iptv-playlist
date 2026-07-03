@@ -227,6 +227,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="kral-pop-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png",KRALPOP TV
 #EXTGRP:Türk
 https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/chunklist_b1296000.m3u8?st=fqno4wPudcTGeuIAqFKeQQ&e=1783108803
+#EXTINF:-1 tvg-id="trt-belgesel-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT BELGESEL
+#EXTGRP:Türk
+http://185.32.44.154/trtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="tlc-tr",TLC TV
+#EXTGRP:Türk
+https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w1567156057.m3u8
+
 
 
 
