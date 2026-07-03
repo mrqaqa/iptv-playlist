@@ -254,6 +254,13 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
+#EXTINF:-1 tvg-id="tnt",ТНТ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/7251/index.m3u8
+#EXTINF:-1 tvg-id="sts",СТС
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
+
 
 
 
