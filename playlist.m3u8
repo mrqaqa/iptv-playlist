@@ -260,6 +260,12 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/7251/index.m3u8
 #EXTINF:-1 tvg-id="sts",СТС
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/128/index.m3u8
+#EXTINF:-1 tvg-id="otr",ОТР
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
 
 
 
