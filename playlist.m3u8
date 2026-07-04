@@ -187,7 +187,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:Türk
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8 
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8
 #EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
 #EXTGRP:Türk
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2145/index.m3u8
