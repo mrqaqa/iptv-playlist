@@ -287,6 +287,9 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2024/index.m3u8
+#EXTINF:-1 tvg-id="perec-int",Перец
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15227/index.m3u8
 #EXTINF:-1 tvg-id="che",Че!
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/513/index.m3u8
@@ -299,6 +302,9 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5033/index.m3u8
 #EXTINF:-1 tvg-id="yu",Ю ТВ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/534/index.m3u8
+#EXTINF:-1 tvg-id="yu",Звезда
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15115/index.m3u8
 
 
 
