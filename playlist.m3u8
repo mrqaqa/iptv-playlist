@@ -112,7 +112,7 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
 #EXTGRP:Türk
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="atv-hd-tr",ATV
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
@@ -130,16 +130,16 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="tv85-tr",TV8,5
 #EXTGRP:Türk
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 #EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-int-tr.png",TV8 İnt
 #EXTGRP:Türk
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
 #EXTGRP:Türk
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
 #EXTGRP:Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
 #EXTGRP:Türk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
