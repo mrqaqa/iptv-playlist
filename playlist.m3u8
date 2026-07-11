@@ -185,6 +185,18 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
 #EXTGRP:Türk
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="trt-avaz",TRT AVAZ
+#EXTGRP:Türk
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trt-belgesel-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT BELGESEL
+#EXTGRP:Türk
+http://185.32.44.154/trtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="tlc-tr",TLC TV
+#EXTGRP:Türk
+http://185.32.44.154/tlcturk/index.m3u8
+#EXTINF:-1 tvg-id="dmax-tr",DMAX
+#EXTGRP:Türk
+http://185.32.44.154/ntvsport/index.m3u8
 #EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:Türk
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8
@@ -193,19 +205,16 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2145/index.m3u8
 #EXTINF:-1 tvg-id="a-spor-tr",A SPOR
 #EXTGRP:Türk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
 #EXTGRP:Türk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
 #EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
 #EXTGRP:Türk
 https://netspor.tecostream.xyz/bsh.m3u8
 #EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
 #EXTGRP:Türk
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="yaban-tr",YABAN TV
-#EXTGRP:Türk
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w118614981.m3u8
 #EXTINF:-1 tvg-id="trt-cocuk-tr",TRT ÇOCUK
 #EXTGRP:Türk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -230,21 +239,6 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_s
 #EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
 #EXTGRP:Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="kral-pop-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png",KRALPOP TV
-#EXTGRP:Türk
-https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/chunklist_b1296000.m3u8?st=fqno4wPudcTGeuIAqFKeQQ&e=1783108803
-#EXTINF:-1 tvg-id="trt-avaz",TRT AVAZ
-#EXTGRP:Türk
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="trt-belgesel-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT BELGESEL
-#EXTGRP:Türk
-http://185.32.44.154/trtbelgesel/index.m3u8
-#EXTINF:-1 tvg-id="tlc-tr",TLC TV
-#EXTGRP:Türk
-http://185.32.44.154/tlcturk/index.m3u8
-#EXTINF:-1 tvg-id="dmax-tr",DMAX
-#EXTGRP:Türk
-http://185.32.44.154/ntvsport/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/204/index.m3u8
