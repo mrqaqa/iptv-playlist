@@ -169,7 +169,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 tvg-id="haber-global-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haber-global-tr.png",HABER GLOBAL
 #EXTGRP:Türk
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 tvg-id="cnn-turk",CNN TÜRK
 #EXTGRP:Türk
 http://185.32.44.154/cnnturk/index.m3u8
@@ -178,7 +178,7 @@ http://185.32.44.154/cnnturk/index.m3u8
 http://185.32.44.154/ntvturk/index.m3u8
 #EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png",24TV
 #EXTGRP:Türk
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="tv100-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png",TV100
 #EXTGRP:Türk
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
