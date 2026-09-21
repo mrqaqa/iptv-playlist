@@ -110,7 +110,7 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/PWmN7Ob.png",MUSİC AZERBAYCAN HİT
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1 tvg-id="Kanal12.tr" tvg-name="Kanal 12" tvg-logo="https://kanal12.net" group-title="Dini",Kanal 12 
+#EXTINF:-1 tvg-id="Kanal12.tr" tvg-logo="https://i.imgur.com/lO9tqJb.png",Kanal 12 
 #EXTGRP:Azərbaycan
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="haditv", tvg-logo="https://i.imgur.com/CR9P3YG.jpeg",Hadi TV
