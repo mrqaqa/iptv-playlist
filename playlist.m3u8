@@ -113,7 +113,7 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="Kanal-12", Kanal 12 
 #EXTGRP:Azərbaycan
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
-#EXTINF:-1 tvg-id="haditv", Hadi TV
+#EXTINF:-1 tvg-id="haditv", tvg-logo="https://i.imgur.com/CR9P3YG.jpeg",Hadi TV
 #EXTGRP:Azərbaycan
 https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
