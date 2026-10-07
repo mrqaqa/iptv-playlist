@@ -121,7 +121,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
 #EXTGRP:Türk
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/87
 #EXTINF:-1 tvg-id="atv-hd-tr",ATV
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
@@ -199,22 +199,22 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:-1 tvg-id="dmax-tr",DMAX
 #EXTGRP:Türk
-http://185.32.44.154/ntvsport/index.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/184
 #EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:Türk
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/1020
 #EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
 #EXTGRP:Türk
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2145/index.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/1353
 #EXTINF:-1 tvg-id="a-spor-tr",A SPOR
 #EXTGRP:Türk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
 #EXTGRP:Türk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/1025
 #EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
 #EXTGRP:Türk
-https://netspor.tecostream.xyz/bsh.m3u8
+http://ekonomtv.com:25461/Roma0540/1839386/115
 #EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
 #EXTGRP:Türk
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
