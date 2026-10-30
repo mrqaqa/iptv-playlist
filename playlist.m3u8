@@ -58,7 +58,7 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
 #EXTGRP:Azərbaycan
-https://str.yodacdn.net/ntv/mono.m3u8
+http://ekonomtv.com:25461/Roma0710/42876578/67
 #EXTINF:-1 tvg-id="QAFQAZTV.az" tvg-logo="https://i.imgur.com/gQh7Qfv.png",QAFQAZ TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/qafkaz/video.ts
@@ -145,7 +145,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
 #EXTGRP:Türk
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+http://ekonomtv.com:25461/Roma0710/42876578/297
 #EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
 #EXTGRP:Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
