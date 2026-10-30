@@ -58,10 +58,7 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
 #EXTGRP:Azərbaycan
-http://ekonomtv.com:25461/Roma0710/42876578/67
-#EXTINF:-1 tvg-id="QAFQAZTV.az" tvg-logo="https://i.imgur.com/gQh7Qfv.png",QAFQAZ TV
-#EXTGRP:Azərbaycan
-http://str.yodacdn.net/qafkaz/video.ts
+http://ru3.hls.gd/ch1692/mono.m3u8?token=gasanov.v2_oNzno75QFNchUaFfmVatwQOnmYb0Xv6UQ95LVHTb5bnMHZ6VuD81IMW67oKZH81GYojErdKH92uv
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
 #EXTGRP:Azərbaycan
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
@@ -71,30 +68,12 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/8OEMS7P.png",LİVE TV
 #EXTGRP:Azərbaycan
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-id="KANAL35.az" tvg-logo="https://i.imgur.com/DzDJfTP.png",KANAL 35
-#EXTGRP:Azərbaycan
-http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SESTV.az" tvg-logo="https://i.imgur.com/EZZZxio.png",SƏS TV
-#EXTGRP:Azərbaycan
-http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-#EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/YQVh5l6.png",Səhiyyə TV
-#EXTGRP:Azərbaycan
-http://185.32.44.154/sehiyye/index.m3u8
-#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/n9gZNmC.png",VIP TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
 #EXTGRP:Azərbaycan
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
 #EXTGRP:Azərbaycan
 http://185.32.44.154/muztvaz/index.m3u8
-#EXTINF:-1 tvg-id="TMBAZ.az" tvg-logo="https://i.imgur.com/w6JEZDi.png",TMB
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="AYAZTV.az" tvg-logo="https://i.imgur.com/eT33dT9.png",AYAZ TV
-#EXTGRP:Azərbaycan
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
 #EXTGRP:Azərbaycan
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
@@ -103,13 +82,10 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
 #EXTGRP:Azərbaycan
-http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+http://ru3.hls.gd/ch1736/mono.m3u8?token=gasanov.v2_IuAyT36ZoOeCDoa4w2WRN1BdbhBajVOsXtNHkniYrtdeN16UU08UnLfYC0HRjUpOXSaKRWWwGHN9
 #EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
 #EXTGRP:Azərbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/PWmN7Ob.png",MUSİC AZERBAYCAN HİT
-#EXTGRP:Azərbaycan
-https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 #EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/jPFJFUo.png",Al Zahra TV 
 #EXTGRP:Azərbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
@@ -133,7 +109,7 @@ http://185.32.44.154/startv/index.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd",KANAL D
 #EXTGRP:Türk
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+http://ru3.hls.gd/ch1389/mono.m3u8?token=gasanov.v2_JAVNC58s60kjlQGOoftOicsdPtUnTIzbH-UZKJEWCPW9m3wi2aoLWGzEFaz-K1KHwzC7ZvY4Q0an
 #EXTINF:-1 tvg-id="tv8-tr",TV8
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
