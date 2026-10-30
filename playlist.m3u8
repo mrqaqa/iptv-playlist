@@ -38,12 +38,6 @@ http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="cbc-az",CBC AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/cbc/index.m3u8
-#EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
-#EXTGRP:Azərbaycan
-http://185.32.44.154/cbcsporthd/index.m3u8
-#EXTINF:-1 tvg-id="idman",İdman AZ
-#EXTGRP:Azərbaycan
-http://185.32.44.154/idmanaz/index.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/2uDoPPO.png",Dünya TV
 #EXTGRP:Azərbaycan
 http://185.32.44.154/dunyatv/index.m3u8
@@ -290,3 +284,12 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/544/index.m3u8
 #EXTINF:-1 tvg-id="dozhd",Дождь
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
+#EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
+#EXTGRP:İdman
+http://185.32.44.154/cbcsporthd/index.m3u8
+#EXTINF:-1 tvg-id="idman",İdman AZ
+#EXTGRP:İdman
+http://ru3.hls.gd/ch1693/mono.m3u8?token=gasanov.v2_uIHEm0nElsa2yk0IiL1mF8WG0XzVUr0XPq9MOaMXH0B-pPfcjMeAf_UjYTo-fGw6fywkc9iQEr_6
+#EXTINF:-1 tvg-id="sporttv",Sport TV
+#EXTGRP:İdman
+http://ru3.hls.gd/ch1693/mono.m3u8?token=gasanov.v2_uIHEm0nElsa2yk0IiL1mF8WG0XzVUr0XPq9MOaMXH0B-pPfcjMeAf_UjYTo-fGw6fywkc9iQEr_6
