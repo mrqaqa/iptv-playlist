@@ -1,10 +1,10 @@
 #EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
 #EXTGRP:Azərbaycan
-http://ru3.hls.gd/ch1530/mono.m3u8?token=gasanov.v2_o0X7RVcT53qX9y6gzFMgyCAuPJzb_2x0U12BG5ybCEq2e1wJMrr5bq32AbxOTNaUTeGQ4tkuEHyv
+http://185.32.44.154/azadazerbaycan/index.m3u8
 #EXTINF:-1 tvg-id="xezer",Xəzər TV
 #EXTGRP:Azərbaycan
-http://ru3.hls.gd/ch1539/mono.m3u8?token=gasanov.v2_y_xtCZztq3IRO5CYoJeBjsCk0g--Cxx_n6472y1Dx2fmGE82ncksxj0NoEBFN1fqbB8XtvJVUeJ7
+http://185.32.44.154/xezertv/index.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png",ARB
 #EXTGRP:Azərbaycan
 http://185.32.44.154/arb/index.m3u8
@@ -100,7 +100,7 @@ http://185.32.44.154/startv/index.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd",KANAL D
 #EXTGRP:Türk
-http://ru3.hls.gd/ch1389/mono.m3u8?token=gasanov.v2_JAVNC58s60kjlQGOoftOicsdPtUnTIzbH-UZKJEWCPW9m3wi2aoLWGzEFaz-K1KHwzC7ZvY4Q0an
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="tv8-tr",TV8
 #EXTGRP:Türk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
@@ -289,7 +289,4 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
 http://185.32.44.154/cbcsporthd/index.m3u8
 #EXTINF:-1 tvg-id="idman",İdman AZ
 #EXTGRP:İdman
-http://ru3.hls.gd/ch1536/mono.m3u8?token=gasanov.v2_4kp4bwhmQuZhHUsP0p3w3mC1fC2lkrNx9jbAb9ZbaMK0AHbVSbXcQQQZfKivaaW9PJB82lqMUzQ2
-#EXTINF:-1 tvg-id="sporttv",Sport TV
-#EXTGRP:İdman
-http://ru3.hls.gd/ch1693/mono.m3u8?token=gasanov.v2_uIHEm0nElsa2yk0IiL1mF8WG0XzVUr0XPq9MOaMXH0B-pPfcjMeAf_UjYTo-fGw6fywkc9iQEr_6
+http://185.32.44.154/idmanaz/index.m3u8
