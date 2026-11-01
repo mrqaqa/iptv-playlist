@@ -68,7 +68,7 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.
 #EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
 #EXTGRP:Azərbaycan
 http://185.32.44.154/muztvaz/index.m3u8
-#EXTINF:-1 tvg-id="ayaztv",Ayaz TV
+#EXTINF:-1 tvg-id="ayaztv.az" tvg-logo="https://i.imgur.com/bKHRP6c.png",Ayaz TV
 #EXTGRP:Azərbaycan
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
