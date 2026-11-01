@@ -34,7 +34,7 @@ http://185.32.44.154/realtv/index.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/A8nY1QT.png",APA TV
 #EXTGRP:Azərbaycan
-http://stream.apa.tv/apastream/index.m3u8
+http://stream.apa.tv/apastream/video1_stream.m3u8
 #EXTINF:-1 tvg-id="cbc-az",CBC AZ
 #EXTGRP:Azərbaycan
 http://185.32.44.154/cbc/index.m3u8
