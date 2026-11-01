@@ -50,7 +50,7 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
 #EXTGRP:Azərbaycan
 http://ru3.hls.gd/ch1692/mono.m3u8?token=gasanov.v2_oNzno75QFNchUaFfmVatwQOnmYb0Xv6UQ95LVHTb5bnMHZ6VuD81IMW67oKZH81GYojErdKH92uv
-#EXTINF:-1 tvg-id="gunaz.tv" tvg-logo="https://i.imgur.com/0z57AC7.png",GunAz TV
+#EXTINF:-1 tvg-id="gunaz.tv" tvg-logo="https://i.imgur.com/BVEids1.png",GunAz TV
 #EXTGRP:Azərbaycan
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
