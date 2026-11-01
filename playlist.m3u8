@@ -89,7 +89,7 @@ https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_72
 #EXTINF:-1 tvg-id="kanal12.tr" tvg-logo="https://i.imgur.com/lO9tqJb.png",Kanal 12 
 #EXTGRP:Azərbaycan
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
-#EXTINF:-1 tvg-id="vilayet",Vilayət TV 
+#EXTINF:-1 tvg-id="vilayettv" tvg-logo="https://i.imgur.com/tT3iadK.png",Vilayət TV 
 #EXTGRP:Azərbaycan
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 tvg-id="haditv.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
