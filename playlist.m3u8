@@ -121,7 +121,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
 http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
 #EXTGRP:Türk
-http://ekonomtv.com:25461/Roma0710/42876578/101
+http://ekonomtv.com:25461/vuqar6362/0702476362/101
 #EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
 #EXTGRP:Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -301,13 +301,10 @@ http://185.32.44.154/cbcsporthd/index.m3u8
 http://185.32.44.154/idmanaz/index.m3u8
 #EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1 HD
 #EXTGRP:İdman
-http://ekonomtv.com:25461/kenan8812/uOXctoPFKZ/696
-#EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1 HD
-#EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/696
 #EXTINF:-1 tvg-id="match-football2",Матч! Футбол 2 HD
 #EXTGRP:İdman
-http://ekonomtv.com:25461/live/Roma0710/42876578/697.m3u8
+http://ekonomtv.com:25461/vuqar6362/0702476362/697
 #EXTINF:-1 tvg-id="match-football3",Матч! Футбол 3 HD
 #EXTGRP:İdman
-http://ekonomtv.com:25461/live/Roma0710/42876578/698.m3u8
+http://ekonomtv.com:25461/vuqar6362/0702476362/698
