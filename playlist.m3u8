@@ -317,43 +317,10 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/697
 #EXTINF:-1 tvg-id="match-football3",Матч! Футбол 3 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/698
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Sport",Eurosport 1 HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/2243
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Sport",Eurosport 2 HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/2244
-#EXTINF:-1 tvg-id="6860" tvg-name="Setanta Sports+ Ukraine HD" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Sport",Setanta Sports+ Ukraine HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/207
-#EXTINF:-1 tvg-id="2630" tvg-name="Setanta Qazaqstan" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Sport",Setanta Qazaqstan
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1100
-#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 1 HD " tvg-logo="https://iptvx.one/picons/setanta-sports1.png" group-title="Sport",Setanta Sports 1 HD 
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1112
-#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 2 HD " tvg-logo="https://iptvx.one/picons/setanta-sports2.png" group-title="Sport",Setanta Sports 2 HD 
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1113
-#EXTINF:-1 tvg-id="2011" tvg-name="Окко Спорт HD" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко Спорт HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1608
-#EXTINF:-1 tvg-id="9325" tvg-name="Окко Футбол HD" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко Футбол HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1610
-#EXTINF:-1 tvg-id="" tvg-name="Окко 1" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 1
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1013
-#EXTINF:-1 tvg-id="" tvg-name="Окко 2" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 2
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1607
-#EXTINF:-1 tvg-id="" tvg-name="Окко 3" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 3
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1609
-#EXTINF:-1 tvg-id="" tvg-name="Матч ТВ" tvg-logo="https://iptvx.one/picons/match.png" group-title="Sport",Матч ТВ
+#EXTINF:-1 tvg-id="match-tv",Матч! ТВ
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/158
-#EXTINF:-1 tvg-id="ch001" tvg-name="Матч ТВ HD" tvg-logo="https://iptvx.one/picons/match.png" group-title="Sport",Матч ТВ HD
+#EXTINF:-1 tvg-id="match-tv",Матч! ТВ HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/910
 #EXTINF:-1 tvg-id="2250" tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Sport",МАТЧ ПРЕМЬЕР
@@ -392,6 +359,39 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/903
 #EXTINF:-1 tvg-id="football-ru",Телеканал Футбол
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/202
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Sport",Eurosport 1 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/2243
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Sport",Eurosport 2 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/2244
+#EXTINF:-1 tvg-id="6860" tvg-name="Setanta Sports+ Ukraine HD" tvg-logo="https://iptvx.one/picons/setanta-ua.png" group-title="Sport",Setanta Sports+ Ukraine HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/207
+#EXTINF:-1 tvg-id="2630" tvg-name="Setanta Qazaqstan" tvg-logo="https://iptvx.one/picons/setanta-kz.png" group-title="Sport",Setanta Qazaqstan
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1100
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 1 HD " tvg-logo="https://iptvx.one/picons/setanta-sports1.png" group-title="Sport",Setanta Sports 1 HD 
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1112
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 2 HD " tvg-logo="https://iptvx.one/picons/setanta-sports2.png" group-title="Sport",Setanta Sports 2 HD 
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1113
+#EXTINF:-1 tvg-id="2011" tvg-name="Окко Спорт HD" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко Спорт HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1608
+#EXTINF:-1 tvg-id="9325" tvg-name="Окко Футбол HD" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко Футбол HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1610
+#EXTINF:-1 tvg-id="" tvg-name="Окко 1" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 1
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1013
+#EXTINF:-1 tvg-id="" tvg-name="Окко 2" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 2
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1607
+#EXTINF:-1 tvg-id="" tvg-name="Окко 3" tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="Sport",Окко 3
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1609
 #EXTINF:-1 tvg-id="bein-sports-1-tr",bein Sports 1
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/852
