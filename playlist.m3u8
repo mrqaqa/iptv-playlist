@@ -344,48 +344,48 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/207
 #EXTINF:-1 tvg-id="setanta-kz",Setanta Qazaqstan
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1100
+#EXTINF:-1 tvg-id="football-ru",Телеканал Футбол
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/202
 #EXTINF:-1 tvg-id="match-tv",Матч! ТВ
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/158
 #EXTINF:-1 tvg-id="match-tv",Матч! ТВ HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/910
-#EXTINF:-1 tvg-id="2250" tvg-name="МАТЧ ПРЕМЬЕР" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Sport",МАТЧ ПРЕМЬЕР
+#EXTINF:-1 tvg-id="match-premier",Матч! Премьер
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/157
-#EXTINF:-1 tvg-id="2250" tvg-name="МАТЧ ПРЕМЬЕР HD" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="Sport",МАТЧ ПРЕМЬЕР HD
+#EXTINF:-1 tvg-id="match-premier",Матч! Премьер HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/913
-#EXTINF:-1 tvg-id="Матч! Арена HD" tvg-name="Матч! Арена" tvg-logo="https://iptvx.one/picons/match-arena.png" group-title="Sport",Матч! Арена
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/911
-#EXTINF:-1 tvg-id="ch001" tvg-name="Матч! Страна" tvg-logo="https://iptvx.one/picons/match-nash-sport.png" group-title="Sport",Матч! Страна
+#EXTINF:-1 tvg-id="match-nash-sport",Матч! Страна
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/912
-#EXTINF:-1 tvg-id="2054" tvg-name="Матч! Боец" tvg-logo="https://iptvx.one/picons/match-boec.png" group-title="Sport",Матч! Боец
+#EXTINF:-1 tvg-id="match-arena",Матч! Арена
 #EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/159
-#EXTINF:-1 tvg-id="2054" tvg-name="Матч! Боец HD" tvg-logo="https://iptvx.one/picons/match-boec.png" group-title="Sport",Матч! Боец HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1299
-#EXTINF:-1 tvg-id="Матч! Игра FHD" tvg-name="Матч! Игра" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="Sport",Матч! Игра
+http://ekonomtv.com:25461/vuqar6362/0702476362/911
+#EXTINF:-1 tvg-id="match-igra",Матч! Игра
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/156
-#EXTINF:-1 tvg-id="2285" tvg-name="Бокс ТВ" tvg-logo="https://iptvx.one/picons/box-tv.png" group-title="Sport",Бокс ТВ
+#EXTINF:-1 tvg-id="match-boets",Матч! Боец
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/159
+#EXTINF:-1 tvg-id="match-boets",Матч! Боец HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1299
+#EXTINF:-1 tvg-id="box-tv",Бокс ТВ
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1021
-#EXTINF:-1 tvg-id="2048" tvg-name="KHL" tvg-logo="https://iptvx.one/picons/khl.png" group-title="Sport",KHL
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/689
-#EXTINF:-1 tvg-id="" tvg-name="UDAR HD" tvg-logo="https://iptvx.one/picons/ufc.png" group-title="Sport",UDAR HD
+#EXTINF:-1 tvg-id="ufc",Удар ТВ
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1026
-#EXTINF:-1 tvg-id="2053" tvg-name="Extreme Sports" tvg-logo="https://iptvx.one/picons/extreme-sports.png" group-title="Sport",Extreme Sports
+#EXTINF:-1 tvg-id="extreme-sports",Extreme Sports
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/903
-#EXTINF:-1 tvg-id="football-ru",Телеканал Футбол
+#EXTINF:-1 tvg-id="kxl",КХЛ ТВ
 #EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/202
+http://ekonomtv.com:25461/vuqar6362/0702476362/689
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Sport",Eurosport 1 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/2243
