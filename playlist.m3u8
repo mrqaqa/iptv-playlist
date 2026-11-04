@@ -425,22 +425,55 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/215
 #EXTINF:-1 tvg-id="beinsports5" tvg-logo="https://i.ibb.co/RYVzby1/be-IN-SPORTS-5.png",bein Sports 5 FHD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/201
-#EXTINF:-1 tvg-id="spor-max-1" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png",SPOR MAX 1 HD
+#EXTINF:-1 tvg-id="spor-max-1" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png",bein SPORTS MAX 1 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/242
-#EXTINF:-1 tvg-id="spor-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",SPOR MAX 2 HD
+#EXTINF:-1 tvg-id="spor-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",bein SPORTS MAX 2 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/98
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1fhd.png" group-title="Sport",EXXEN SPORTS 1 ʜᴅ
+#EXTINF:-1 tvg-id="s-sport-tr",S Sport 1
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/861
+#EXTINF:-1 tvg-id="s-sport-tr",S Sport 1 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/243
+#EXTINF:-1 tvg-id="s-sport-2-tr",S Sport 2
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/254
+#EXTINF:-1 tvg-id="s-sport-2-tr",S Sport 2 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/292
+#EXTINF:-1 tvg-id="ssportplus" tvg-logo="https://i.imgur.com/OrgBnam.png",S SPORT PLUS HD 
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/1355
+#EXTINF:-1 tvg-id="tivibu-spor",Tivibuspor HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/316
+#EXTINF:-1 tvg-id="tivibu-spor-1",Tivibuspor 1 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/200
+#EXTINF:-1 tvg-id="tivibu-spor-2",Tivibuspor 2 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/264
+#EXTINF:-1 tvg-id="tivibu-spor-3",Tivibuspor 3 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/263
+#EXTINF:-1 tvg-id="spor-smart-tr",Sporsmart HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/203
+#EXTINF:-1 tvg-id="spor-smart-2-tr",Sporsmart 2 HD
+#EXTGRP:İdman
+http://ekonomtv.com:25461/vuqar6362/0702476362/152
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1fhd.png" group-title="Sport",EXXEN SPORTS 1 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/934
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen2hd.png" group-title="Sport",EXXEN SPORTS 2 ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen2hd.png" group-title="Sport",EXXEN SPORTS 2 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1256
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen3hd.png" group-title="Sport",EXXEN SPORTS 3 ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen3hd.png" group-title="Sport",EXXEN SPORTS 3 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1257
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor ʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="tabii Spor ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/1255
 #EXTINF:-1 tvg-id="" tvg-name="tabii Spor 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 1 HD
@@ -461,36 +494,3 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/941
 #EXTINF:-1 tvg-id="" tvg-name="tabii Spor 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 6 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/942
-#EXTINF:-1 tvg-id="" tvg-name="S Sport 1 SD" tvg-logo="https://iptvx.one/picons/s-sport-tr.png" group-title="Sport",S Sport 1 SD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/861
-#EXTINF:-1 tvg-id="ch001" tvg-name="S Sport 1 HD" tvg-logo="https://iptvx.one/picons/s-sport-tr.png" group-title="Sport",S Sport 1 HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/243
-#EXTINF:-1 tvg-id="ch001" tvg-name="S SPORT 2 SD" tvg-logo="https://iptvx.one/picons/s-sport-2-tr.png" group-title="Sport",S SPORT 2 SD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/254
-#EXTINF:-1 tvg-id="TR: S Sport 2 HD" tvg-name="S SPORT 2 HD" tvg-logo="https://iptvx.one/picons/s-sport-2-tr.png" group-title="Sport",S SPORT 2 HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/292
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 1 HD " tvg-logo="https://iptvx.one/picons/s-sport-tr.png" group-title="Sport",S SPORT PLUS 1 HD 
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/1355
-#EXTINF:-1 tvg-id="7233" tvg-name="Sporsmart HD" tvg-logo="https://iptvx.one/picons/spor-smart-tr.png" group-title="Sport",Sporsmart HD
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/203
-#EXTINF:-1 tvg-id="" tvg-name="Sporsmart 2 " tvg-logo="https://iptvx.one/picons/spor-smart-2-tr.png" group-title="Sport",Sporsmart 2 
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/152
-#EXTINF:-1 tvg-id="6527" tvg-name="Tivibuspor HD TR" tvg-logo="https://iptvx.one/picons/tivibu-spor.png" group-title="Sport",Tivibuspor HD TR
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/316
-#EXTINF:-1 tvg-id="6527" tvg-name="Tivibuspor 1 HD TR" tvg-logo="https://iptvx.one/picons/tivibu-spor-1.png" group-title="Sport",Tivibuspor 1 HD TR
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/200
-#EXTINF:-1 tvg-id="3872" tvg-name="Tivibuspor 2 HD TR" tvg-logo="https://iptvx.one/picons/tivibu-spor-2.png" group-title="Sport",Tivibuspor 2 HD TR
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/264
-#EXTINF:-1 tvg-id="6529" tvg-name="Tivibuspor 3 HD TR" tvg-logo="https://iptvx.one/picons/tivibu-spor-3.png" group-title="Sport",Tivibuspor 3 HD TR
-#EXTGRP:İdman
-http://ekonomtv.com:25461/vuqar6362/0702476362/263
