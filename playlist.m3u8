@@ -425,10 +425,10 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/215
 #EXTINF:-1 tvg-id="bein-sports-5-tr",bein Sports 5 FHD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/201
-#EXTINF:-1 tvg-id="3880" tvg-name="b**N SPOR MAX 1 HD" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png" group-title="Sport",b**N SPOR MAX 1 HD
+#EXTINF:-1 tvg-id="spor-max-1" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png",SPOR MAX 1 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/242
-#EXTINF:-1 tvg-id="8900" tvg-name="b**N SPOR MAX 2 HD" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png" group-title="Sport",b**N SPOR MAX 2 HD
+#EXTINF:-1 tvg-id="spor-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",SPOR MAX 2 HD
 #EXTGRP:İdman
 http://ekonomtv.com:25461/vuqar6362/0702476362/98
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1fhd.png" group-title="Sport",EXXEN SPORTS 1 ʜᴅ
