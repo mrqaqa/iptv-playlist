@@ -175,7 +175,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:-1 tvg-id="dmax-tr",DMAX
 #EXTGRP:Türk
-http://ekonomtv.com:25461/Roma0540/1839386/184
+http://ekonomtv.com:25461/vuqar6362/0702476362/184
 #EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:Türk
 http://ekonomtv.com:25461/Roma0540/1839386/1020
