@@ -275,12 +275,9 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/1100
 #EXTINF:-1 tvg-id="football-ru",Телеканал Футбол
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/202
-#EXTINF:-1 tvg-id="match-tv",Матч! ТВ
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/158
 #EXTINF:-1 tvg-id="match-tv",Матч! ТВ HD
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/910
+http://ekonomtv.com:25461/vuqar6362/0702476362/158
 #EXTINF:-1 tvg-id="match-premier",Матч! Премьер
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/157
