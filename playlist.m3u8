@@ -11,9 +11,6 @@ http://185.32.44.154/arb/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az",ARB 24
 #EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/arb24/index.m3u8
-#EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Günəş
-#EXTGRP:🇦🇿 Azerbaijan
-http://185.32.44.154/arbgunesh/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
 #EXTGRP:🇦🇿 Azerbaijan
 https://live.itv.az/itv.m3u8
@@ -53,48 +50,15 @@ http://ru3.hls.gd/ch1692/mono.m3u8?token=gasanov.v2_oNzno75QFNchUaFfmVatwQOnmYb0
 #EXTINF:-1 tvg-id="gunaz.tv" tvg-logo="https://i.imgur.com/BVEids1.png",GunAz TV
 #EXTGRP:🇦🇿 Azerbaijan
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
-#EXTGRP:🇦🇿 Azerbaijan
-http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/u9uuTYm.png",SHOW PLUS
 #EXTGRP:🇦🇿 Azerbaijan
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/8OEMS7P.png",LİVE TV
 #EXTGRP:🇦🇿 Azerbaijan
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
+#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
 #EXTGRP:🇦🇿 Azerbaijan
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
-#EXTGRP:🇦🇿 Azerbaijan
-http://185.32.44.154/muztvaz/index.m3u8
-#EXTINF:-1 tvg-id="ayaztv" tvg-logo="https://i.imgur.com/c0JrAUc.png",Ayaz TV
-#EXTGRP:🇦🇿 Azerbaijan
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
-#EXTGRP:🇦🇿 Azerbaijan
-https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
-#EXTGRP:🇦🇿 Azerbaijan
-https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-#EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
-#EXTGRP:🇦🇿 Azerbaijan
-http://ru3.hls.gd/ch1736/mono.m3u8?token=gasanov.v2_IuAyT36ZoOeCDoa4w2WRN1BdbhBajVOsXtNHkniYrtdeN16UU08UnLfYC0HRjUpOXSaKRWWwGHN9
-#EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
-#EXTGRP:🇦🇿 Azerbaijan
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/jPFJFUo.png",Al Zahra TV 
-#EXTGRP:🇦🇿 Azerbaijan
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="kanal12.tr" tvg-logo="https://i.imgur.com/lO9tqJb.png",Kanal 12 
-#EXTGRP:🇦🇿 Azerbaijan
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
-#EXTINF:-1 tvg-id="vilayettv" tvg-logo="https://i.imgur.com/tT3iadK.png",Vilayət TV 
-#EXTGRP:🇦🇿 Azerbaijan
-https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="haditv.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
-#EXTGRP:🇦🇿 Azerbaijan
-https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
 #EXTGRP:🇹🇷 Turkey
 http://ru3.hls.gd/ch1419/mono.m3u8?token=gasanov.v2_wN7xzJFWhuta37wCOmJh5pCUCgtT07YIYtTk5v4qfLhJQQeDBIqs1W27H1JtipamF2tYDu4rNUBJ
@@ -179,45 +143,6 @@ http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:-1 tvg-id="dmax-tr",DMAX
 #EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/ntvsport/index.m3u8
-#EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-tr.png",TRT Spor
-#EXTGRP:🇹🇷 Turkey
-http://ekonomtv.com:25461/Roma0540/1839386/1020
-#EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
-#EXTGRP:🇹🇷 Turkey
-http://ekonomtv.com:25461/Roma0540/1839386/1353
-#EXTINF:-1 tvg-id="a-spor-tr",A SPOR
-#EXTGRP:🇹🇷 Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
-#EXTGRP:🇹🇷 Turkey
-http://ekonomtv.com:25461/Roma0540/1839386/1025
-#EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
-#EXTGRP:🇹🇷 Turkey
-http://ekonomtv.com:25461/Roma0540/1839386/115
-#EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
-#EXTGRP:🇹🇷 Turkey
-https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="minikacocuk-tr",MİNİKA ÇOCUK
-#EXTGRP:🇹🇷 Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="minikago-tr",MİNİKA GO
-#EXTGRP:🇹🇷 Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
-#EXTGRP:🇹🇷 Turkey
-http://185.32.44.154/cartoonnetworkturk/index.m3u8
-#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
-#EXTGRP:🇹🇷 Turkey
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 TÜRK
-#EXTGRP:🇹🇷 Turkey
-http://185.32.44.154/NR1TurkHD/index.m3u8
-#EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
-#EXTGRP:🇹🇷 Turkey
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
-#EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
-#EXTGRP:🇹🇷 Turkey
-http://185.32.44.154/kralpop/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
 #EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/127/index.m3u8
@@ -299,7 +224,7 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
 #EXTGRP:⚽ Sports
 http://185.32.44.154/cbcsporthd/index.m3u8
-#EXTINF:-1 tvg-id="idman",idman AZ
+#EXTINF:-1 tvg-id="idman",İdman AZ
 #EXTGRP:⚽ Sports
 http://185.32.44.154/idmanaz/index.m3u8
 #EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1
@@ -395,6 +320,9 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/2243
 #EXTINF:-1 tvg-id="eurosport2",Eurosport 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/2244
+#EXTINF:-1 tvg-id="bein-sports-haber-tr",bein Sports Haber
+#EXTGRP:⚽ Sports
+http://ekonomtv.com:25461/Roma0540/1839386/115
 #EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/hXVtQ7Q/be-IN-SPORTS-1.png",bein Sports 1
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/852
@@ -434,6 +362,9 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/242
 #EXTINF:-1 tvg-id="spor-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",bein SPORTS MAX 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/98
+#EXTINF:-1 tvg-id="" tvg-name="tabii Spor ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor HD
+#EXTGRP:⚽ Sports
+http://ekonomtv.com:25461/vuqar6362/0702476362/1255
 #EXTINF:-1 tvg-id="s-sport-tr",S Sport 1
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/861
@@ -467,43 +398,76 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/203
 #EXTINF:-1 tvg-id="spor-smart-2-tr",Sporsmart 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/152
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen1fhd.png" group-title="Sport",EXXEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="a-spor-tr",A SPOR
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/934
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen2hd.png" group-title="Sport",EXXEN SPORTS 2 HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/1256
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3 ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/exxen3hd.png" group-title="Sport",EXXEN SPORTS 3 HD
+http://ekonomtv.com:25461/Roma0540/1839386/1020
+#EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/1257
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor HD
+http://ekonomtv.com:25461/Roma0540/1839386/1353
+#EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/1255
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 1 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 1 HD
+http://ekonomtv.com:25461/Roma0540/1839386/1025
+#EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
 #EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/937
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 2 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 2 HD
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/938
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 3 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 3 HD
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/939
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 4 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 4 HD
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/940
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 5 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 5 HD
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/941
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 6 HD
-#EXTGRP:⚽ Sports
-http://ekonomtv.com:25461/vuqar6362/0702476362/942
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 #EXTINF:
 #EXTGRP:🎬 Movies
-#EXTINF:
+#EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
 #EXTGRP:🎵 Music
-#EXTINF:
+http://185.32.44.154/muztvaz/index.m3u8
+#EXTINF:-1 tvg-id="ayaztv" tvg-logo="https://i.imgur.com/c0JrAUc.png",Ayaz TV
+#EXTGRP:🎵 Music
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
+#EXTGRP:🎵 Music
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
+#EXTGRP:🎵 Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
+#EXTGRP:🎵 Music
+http://ru3.hls.gd/ch1736/mono.m3u8?token=gasanov.v2_IuAyT36ZoOeCDoa4w2WRN1BdbhBajVOsXtNHkniYrtdeN16UU08UnLfYC0HRjUpOXSaKRWWwGHN9
+#EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
+#EXTGRP:🎵 Music
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 TÜRK
+#EXTGRP:🎵 Music
+http://185.32.44.154/NR1TurkHD/index.m3u8
+#EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
+#EXTGRP:🎵 Music
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
+#EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
+#EXTGRP:🎵 Music
+http://185.32.44.154/kralpop/index.m3u8
+#EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Günəş
 #EXTGRP:🧸 Kids
-#EXTINF:
+http://185.32.44.154/arbgunesh/index.m3u8
+#EXTINF:-1 tvg-id="minikacocuk-tr",MİNİKA ÇOCUK
+#EXTGRP:🧸 Kids
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="minikago-tr",MİNİKA GO
+#EXTGRP:🧸 Kids
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
+#EXTGRP:🧸 Kids
+http://185.32.44.154/cartoonnetworkturk/index.m3u8
+#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
+#EXTGRP:🧸 Kids
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/jPFJFUo.png",Al Zahra TV 
 #EXTGRP:🕌 Religion
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="kanal12.tr" tvg-logo="https://i.imgur.com/lO9tqJb.png",Kanal 12 
+#EXTGRP:🕌 Religion
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
+#EXTINF:-1 tvg-id="vilayettv" tvg-logo="https://i.imgur.com/tT3iadK.png",Vilayət TV 
+#EXTGRP:🕌 Religion
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-id="haditv.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
+#EXTGRP:🕌 Religion
+https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:
 #EXTGRP:🌍 International
