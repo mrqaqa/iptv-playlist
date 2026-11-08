@@ -122,7 +122,7 @@ http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/now-tr.png",NOW
 #EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/vuqar6362/0702476362/101
-#EXTINF:-1 tvg-id="trt-turk-tr",TRT 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
 #EXTGRP:🇹🇷 Turkey
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
@@ -149,13 +149,13 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="a-haber-tr",A HABER
 #EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
-#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/haberturk-tr.png",HABER 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/haberturk-tr.png",HABER TÜRK
 #EXTGRP:🇹🇷 Turkey
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 tvg-id="haber-global-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/haber-global-tr.png",HABER GLOBAL
 #EXTGRP:🇹🇷 Turkey
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1 tvg-id="cnn-turk",CNN 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="cnn-turk",CNN TÜRK
 #EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr",NTV
@@ -209,13 +209,13 @@ http://185.32.44.154/cartoonnetworkturk/index.m3u8
 #EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
 #EXTGRP:🇹🇷 Turkey
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 TÜRK
 #EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/NR1TurkHD/index.m3u8
-#EXTINF:-1 tvg-id="power-turk-tr",POWER 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
 #EXTGRP:🇹🇷 Turkey
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
-#EXTINF:-1 tvg-id="dream-turk-tr",DREAM 🇹🇷 Turkey
+#EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
 #EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/kralpop/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
@@ -299,7 +299,7 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
 #EXTGRP:⚽ Sports
 http://185.32.44.154/cbcsporthd/index.m3u8
-#EXTINF:-1 tvg-id="idman",⚽ Sports AZ
+#EXTINF:-1 tvg-id="idman",idman AZ
 #EXTGRP:⚽ Sports
 http://185.32.44.154/idmanaz/index.m3u8
 #EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1
