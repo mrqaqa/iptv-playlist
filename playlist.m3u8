@@ -96,205 +96,205 @@ https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTGRP:🇦🇿 Azerbaijan
 https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://ru3.hls.gd/ch1419/mono.m3u8?token=gasanov.v2_wN7xzJFWhuta37wCOmJh5pCUCgtT07YIYtTk5v4qfLhJQQeDBIqs1W27H1JtipamF2tYDu4rNUBJ
 #EXTINF:-1 tvg-id="atv-hd-tr",ATV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="star-tv-hd-tr",STAR TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/startv/index.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr",SHOW TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="kanal-d-hd",KANAL D
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="tv8-tr",TV8
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="tv85-tr",TV8,5
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
-#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-int-tr.png",TV8 İnt
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/tv8-int-tr.png",TV8 İnt
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/tv8int/index.m3u8
-#EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/now-tr.png",NOW
+#EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/vuqar6362/0702476362/101
-#EXTINF:-1 tvg-id="trt-turk-tr",TRT Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="trt-turk-tr",TRT 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-id="teve2hd",teve2
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_720p.m3u8
 #EXTINF:-1 tvg-id="a2-tr",A2 TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
-#EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png",tv4
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/tv4-tr.png",tv4
+#EXTGRP:🇹🇷 Turkey
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png",TV360
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/360-tr.png",TV360
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/360TV/index.m3u8
 #EXTINF:-1 tvg-id="beyaz-tv-tr",BEYAZ TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="trt-haber-hd",TRT HABER
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="a-haber-tr",A HABER
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
-#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png",HABER Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/haberturk-tr.png",HABER 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
-#EXTINF:-1 tvg-id="haber-global-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haber-global-tr.png",HABER GLOBAL
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="haber-global-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/haber-global-tr.png",HABER GLOBAL
+#EXTGRP:🇹🇷 Turkey
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1 tvg-id="cnn-turk",CNN Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="cnn-turk",CNN 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr",NTV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/ntvturk/index.m3u8
-#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png",24TV
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/24-tr.png",24TV
+#EXTGRP:🇹🇷 Turkey
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/tgrt-haber-tr.png",TGRT HABER
+#EXTGRP:🇹🇷 Turkey
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="trt-avaz",TRT AVAZ
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="trt-belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-belgesel-tr.png",TRT BELGESEL
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="trt-belgesel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/tgrt-belgesel-tr.png",TRT BELGESEL
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/trtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="tlc-tr",TLC TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:-1 tvg-id="dmax-tr",DMAX
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/ntvsport/index.m3u8
-#EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-tr.png",TRT Spor
+#EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/Roma0540/1839386/1020
-#EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
+#EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/Roma0540/1839386/1353
 #EXTINF:-1 tvg-id="a-spor-tr",A SPOR
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/Roma0540/1839386/1025
 #EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/Roma0540/1839386/115
 #EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="minikacocuk-tr",MİNİKA ÇOCUK
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="minikago-tr",MİNİKA GO
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/cartoonnetworkturk/index.m3u8
 #EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
-#EXTGRP:Turkey
+#EXTGRP:🇹🇷 Turkey
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/NR1TurkHD/index.m3u8
-#EXTINF:-1 tvg-id="power-turk-tr",POWER Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="power-turk-tr",POWER 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
-#EXTINF:-1 tvg-id="dream-turk-tr",DREAM Turkey
-#EXTGRP:Turkey
+#EXTINF:-1 tvg-id="dream-turk-tr",DREAM 🇹🇷 Turkey
+#EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/kralpop/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/127/index.m3u8
 #EXTINF:-1 tvg-id="rossia1",Россия 1
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/504/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24",Россия 24
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/507/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu",РТР Планета
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/18042/index.m3u8
 #EXTINF:-1 tvg-id="euronews",Euronews Россия
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/9215/index.m3u8
 #EXTINF:-1 tvg-id="izvestia",Известия
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2008/index.m3u8
 #EXTINF:-1 tvg-id="ntv",НТВ
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/501/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir",НТВ Мир
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/14035/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/741/index.m3u8
 #EXTINF:-1 tvg-id="mir",Мир
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/113/index.m3u8
 #EXTINF:-1 tvg-id="mir-24",Мир 24
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/712/index.m3u8
 #EXTINF:-1 tvg-id="rbk",РБК
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/106/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr",ТВЦ
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
 #EXTINF:-1 tvg-id="otr",ОТР
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
 #EXTINF:-1 tvg-id="tnt",ТНТ
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/502/index.m3u8
 #EXTINF:-1 tvg-id="tnt4",ТНТ 4
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/104/index.m3u8
 #EXTINF:-1 tvg-id="sts",СТС
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/506/index.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/128/index.m3u8
 #EXTINF:-1 tvg-id="perec-int",Перец
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15227/index.m3u8
 #EXTINF:-1 tvg-id="che",Че!
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/513/index.m3u8
 #EXTINF:-1 tvg-id="piatnica",Пятница!
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/503/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru",ТВ 3
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/508/index.m3u8
 #EXTINF:-1 tvg-id="yu",Ю ТВ
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/534/index.m3u8
 #EXTINF:-1 tvg-id="zvezda",Звезда
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/544/index.m3u8
 #EXTINF:-1 tvg-id="dozhd",Дождь
-#EXTGRP:Russia
+#EXTGRP:🇷🇺 Russia
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
 #EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
 #EXTGRP:⚽ Sports
@@ -497,8 +497,13 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/941
 #EXTINF:-1 tvg-id="" tvg-name="tabii Spor 6 HD" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor 6 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/942
+#EXTINF:
 #EXTGRP:🎬 Movies
+#EXTINF:
 #EXTGRP:🎵 Music
+#EXTINF:
 #EXTGRP:🧸 Kids
+#EXTINF:
 #EXTGRP:🕌 Religion
+#EXTINF:
 #EXTGRP:🌍 International
