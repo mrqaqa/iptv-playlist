@@ -1,99 +1,99 @@
 #EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="xezer",Xəzər TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png",ARB
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/arb/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az",ARB 24
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/arb24/index.m3u8
 #EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Günəş
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/arbgunesh/index.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="aztv",AZ TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/aztv/index.m3u8
 #EXTINF:-1 tvg-id="medeniyyet",Mədəniyyət TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az",Space TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://erlyvideo.izone.az:80/spacetv/mono.m3u8
 #EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/8fps7HA.png",Real TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/realtv/index.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png",Baku TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/A8nY1QT.png",APA TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="cbc-az",CBC AZ
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/cbc/index.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/2uDoPPO.png",Dünya TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/dunyatv/index.m3u8
 #EXTINF:-1 tvg-id="StartTV.az" tvg-logo="https://i.imgur.com/VT8KG01.png",Kanal S
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az" tvg-logo="https://i.imgur.com/rXZnIah.png",Kəpəz TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://ru3.hls.gd/ch1692/mono.m3u8?token=gasanov.v2_oNzno75QFNchUaFfmVatwQOnmYb0Xv6UQ95LVHTb5bnMHZ6VuD81IMW67oKZH81GYojErdKH92uv
 #EXTINF:-1 tvg-id="gunaz.tv" tvg-logo="https://i.imgur.com/BVEids1.png",GunAz TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/u9uuTYm.png",SHOW PLUS
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/8OEMS7P.png",LİVE TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/muztvaz/index.m3u8
 #EXTINF:-1 tvg-id="ayaztv" tvg-logo="https://i.imgur.com/c0JrAUc.png",Ayaz TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 http://ru3.hls.gd/ch1736/mono.m3u8?token=gasanov.v2_IuAyT36ZoOeCDoa4w2WRN1BdbhBajVOsXtNHkniYrtdeN16UU08UnLfYC0HRjUpOXSaKRWWwGHN9
 #EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/jPFJFUo.png",Al Zahra TV 
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="kanal12.tr" tvg-logo="https://i.imgur.com/lO9tqJb.png",Kanal 12 
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="vilayettv" tvg-logo="https://i.imgur.com/tT3iadK.png",Vilayət TV 
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 tvg-id="haditv.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
-#EXTGRP:Azerbaijan
+#EXTGRP:🇦🇿 Azerbaijan
 https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trt-1-hd",TRT1
 #EXTGRP:Turkey
