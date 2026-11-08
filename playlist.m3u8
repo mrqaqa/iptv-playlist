@@ -178,7 +178,7 @@ http://185.32.44.154/trtbelgesel/index.m3u8
 http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:-1 tvg-id="dmax-tr",DMAX
 #EXTGRP:Türk
-http://ekonomtv.com:25461/vuqar6362/0702476362/184
+http://185.32.44.154/ntvsport/index.m3u8
 #EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
 #EXTGRP:Türk
 http://ekonomtv.com:25461/Roma0540/1839386/1020
@@ -217,7 +217,7 @@ http://185.32.44.154/NR1TurkHD/index.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
 #EXTGRP:Türk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+http://185.32.44.154/kralpop/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/127/index.m3u8
