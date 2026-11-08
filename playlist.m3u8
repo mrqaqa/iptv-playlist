@@ -86,9 +86,6 @@ http://185.32.44.154/tv8int/index.m3u8
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/🇹🇷 Turkey/now-tr.png",NOW
 #EXTGRP:🇹🇷 Turkey
 http://ekonomtv.com:25461/vuqar6362/0702476362/101
-#EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
-#EXTGRP:🇹🇷 Turkey
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
 #EXTGRP:🇹🇷 Turkey
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
@@ -107,6 +104,9 @@ http://185.32.44.154/360TV/index.m3u8
 #EXTINF:-1 tvg-id="beyaz-tv-tr",BEYAZ TV
 #EXTGRP:🇹🇷 Turkey
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
+#EXTGRP:🇹🇷 Turkey
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="trt-haber-hd",TRT HABER
 #EXTGRP:🇹🇷 Turkey
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
