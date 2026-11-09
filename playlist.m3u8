@@ -442,9 +442,18 @@ http://ru3.hls.gd/ch1736/mono.m3u8?token=gasanov.v2_IuAyT36ZoOeCDoa4w2WRN1BdbhBa
 #EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
 #EXTGRP:🎵 Music
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 TÜRK
+#EXTINF:-1 tvg-id="nr1-turk-tr",NR 1 TÜRK
 #EXTGRP:🎵 Music
 http://185.32.44.154/NR1TurkHD/index.m3u8
+#EXTINF:-1 tvg-id="nr1-ask-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-ask-hd-tr.png",NR 1 Aşk
+#EXTGRP:🎵 Music
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="nr1-damar-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-damar-tr.png",NR 1 Damar
+#EXTGRP:🎵 Music
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="nr1-dance-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-dance-hd-tr.png",NR 1 Dance
+#EXTGRP:🎵 Music
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
 #EXTGRP:🎵 Music
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
