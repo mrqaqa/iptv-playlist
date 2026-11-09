@@ -125,7 +125,7 @@ http://185.32.44.154/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd-tr",NTV
 #EXTGRP:🇹🇷 Turkey
 http://185.32.44.154/ntvturk/index.m3u8
-#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png",24TV
+#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png",24 TV
 #EXTGRP:🇹🇷 Turkey
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
@@ -374,7 +374,7 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/254
 #EXTINF:-1 tvg-id="s-sport-2-tr",S Sport 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/292
-#EXTINF:-1 tvg-id="ssportplus" tvg-logo="https://i.imgur.com/OrgBnam.png",S SPORT + HD 
+#EXTINF:-1 tvg-id="ssportplus" tvg-logo="https://i.imgur.com/OrgBnam.png",S Sport + HD 
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/1355
 #EXTINF:-1 tvg-id="tivibu-spor",Tivibuspor HD
@@ -389,10 +389,10 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/264
 #EXTINF:-1 tvg-id="tivibu-spor-3",Tivibuspor 3 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/263
-#EXTINF:-1 tvg-id="spor-smart-tr",Sporsmart HD
+#EXTINF:-1 tvg-id="spor-smart-tr",SporSmart HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/203
-#EXTINF:-1 tvg-id="spor-smart-2-tr",Sporsmart 2 HD
+#EXTINF:-1 tvg-id="spor-smart-2-tr",SporSmart 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/152
 #EXTINF:-1 tvg-id="a-spor-tr",A SPOR
