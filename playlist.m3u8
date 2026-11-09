@@ -465,7 +465,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_s
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png",POWER TÜRK TAPTAZE
 #EXTGRP:🎵 Music
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png",POWER LOVE
 #EXTGRP:🎵 Music
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
