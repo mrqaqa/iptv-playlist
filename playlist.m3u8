@@ -454,9 +454,15 @@ http://185.32.44.154/cartoonnetworkturk/index.m3u8
 #EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
 #EXTGRP:🧸 Kids
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/Y0hdWKf.png",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="alquran.tr" tvg-logo="https://i.imgur.com/Y0hdWKf.png",Al Quran Al Kareem TV
 #EXTGRP:🕌 Religion
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-id="diyanet.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png",Diyanet TV
+#EXTGRP:🕌 Religion
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="semerkand.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/semerkand-tv-tr.png",Semerkand TV
+#EXTGRP:🕌 Religion
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="alzahratv.tr" tvg-logo="https://i.imgur.com/jPFJFUo.png",Al Zahra TV 
 #EXTGRP:🕌 Religion
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_720p/chunks.m3u8
