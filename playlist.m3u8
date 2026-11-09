@@ -131,6 +131,9 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
 #EXTGRP:🇹🇷 Turkey
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png",DHA
+#EXTGRP:🇹🇷 Turkey
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="tbmm-tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tbmm-tv-tr.png",TBMM TV
 #EXTGRP:🇹🇷 Turkey
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
@@ -448,15 +451,27 @@ http://185.32.44.154/NR1TurkHD/index.m3u8
 #EXTINF:-1 tvg-id="nr1-ask-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-ask-hd-tr.png",NR 1 Aşk
 #EXTGRP:🎵 Music
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="nr1-damar-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-damar-tr.png",NR 1 Damar
+#EXTINF:-1 tvg-id="nr1-damar-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-damar-tr.png",NR 1 damar
 #EXTGRP:🎵 Music
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-id="nr1-dance-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-dance-hd-tr.png",NR 1 Dance
+#EXTINF:-1 tvg-id="nr1-dance-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-dance-hd-tr.png",NR 1 DANCE
 #EXTGRP:🎵 Music
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
 #EXTGRP:🎵 Music
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png",POWER TÜRK slow
+#EXTGRP:🎵 Music
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png",POWER TÜRK TAPTAZE
+#EXTGRP:🎵 Music
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png",POWER LOVE
+#EXTGRP:🎵 Music
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/QpPteBO.png",POWER dance
+#EXTGRP:🎵 Music
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
 #EXTGRP:🎵 Music
 http://185.32.44.154/kralpop/index.m3u8
