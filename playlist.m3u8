@@ -490,7 +490,7 @@ http://185.32.44.154/cartoonnetworkturk/index.m3u8
 #EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
 #EXTGRP:🧸 Kids
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="alquran.tr" tvg-logo="https://i.imgur.com/Y0hdWKf.png",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="alquran.tr" tvg-logo="https://i.imgur.com/Y0hdWKf.png",Makkah Live TV
 #EXTGRP:🕌 Religion
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="diyanet.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png",Diyanet TV
