@@ -38,7 +38,7 @@ http://185.32.44.154/cbc/index.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/2uDoPPO.png",Dünya TV
 #EXTGRP:🇦🇿 Azerbaijan
 http://185.32.44.154/dunyatv/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.az" tvg-logo="https://i.imgur.com/VT8KG01.png",Kanal S
+#EXTINF:-1 tvg-id="kanalS.az" tvg-logo="https://i.imgur.com/VT8KG01.png",Kanal S
 #EXTGRP:🇦🇿 Azerbaijan
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az" tvg-logo="https://i.imgur.com/rXZnIah.png",Kəpəz TV
@@ -365,13 +365,13 @@ http://ekonomtv.com:25461/vuqar6362/0702476362/215
 #EXTINF:-1 tvg-id="beinsports5" tvg-logo="https://i.ibb.co/RYVzby1/be-IN-SPORTS-5.png",bein Sports 5 FHD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/201
-#EXTINF:-1 tvg-id="spor-max-1" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png",bein SPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="sports-max-1" tvg-logo="https://i.ibb.co/gw3Hq3k/be-IN-SPORTS-Max-1.png",bein SPORTS MAX 1 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/242
-#EXTINF:-1 tvg-id="spor-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",bein SPORTS MAX 2 HD
+#EXTINF:-1 tvg-id="sports-max-2" tvg-logo="https://i.ibb.co/r0mqGjG/be-IN-SPORTS-Max-2.png",bein SPORTS MAX 2 HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/98
-#EXTINF:-1 tvg-id="" tvg-name="tabii Spor ʜᴅ" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor HD
+#EXTINF:-1 tvg-id="" tvg-name="tabiispor-tr" tvg-logo="https://granada.choval.xyz/tr/spor/tabiisporhd.png" group-title="Sport",tabii Spor HD
 #EXTGRP:⚽ Sports
 http://ekonomtv.com:25461/vuqar6362/0702476362/1255
 #EXTINF:-1 tvg-id="s-sport-tr",S Sport 1
@@ -433,7 +433,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 #EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
 #EXTGRP:🎵 Music
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
+#EXTINF:-1 tvg-id="KTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
 #EXTGRP:🎵 Music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
@@ -484,7 +484,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="vilayettv" tvg-logo="https://i.imgur.com/tT3iadK.png",Vilayət TV 
 #EXTGRP:🕌 Religion
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="haditv.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
+#EXTINF:-1 tvg-id="haditv3.tr" tvg-logo="https://i.imgur.com/9i3I3Tk.png",Hadi TV 3
 #EXTGRP:🕌 Religion
 https://amsterdam.zeuscdn724.com/H3/tracks-v4a1/mono.ts.m3u8
 #EXTINF:
