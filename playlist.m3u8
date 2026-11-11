@@ -1,4 +1,4 @@
-#EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
 #EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
 #EXTGRP:🇦🇿 Azerbaijan
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
